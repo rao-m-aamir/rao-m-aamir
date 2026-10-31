@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="48" viewBox="0 0 900 48" role="img" aria-label="05 Trail Record" shape-rendering="crispEdges"><style>
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{0%,60%{opacity:1}61%,100%{opacity:0}}
+.tw1{animation:tw 3.2s steps(1) infinite}.tw2{animation:tw 4.1s steps(1) -1.3s infinite}.tw3{animation:tw 5.3s steps(1) -2.7s infinite}
+@keyframes tw{0%,70%{opacity:1}71%,85%{opacity:.2}86%,100%{opacity:1}}
+.ff1{animation:ff 4s steps(1) infinite}.ff2{animation:ff 5s steps(1) -1.7s infinite}.ff3{animation:ff 6s steps(1) -3.1s infinite}
+@keyframes ff{0%,35%{opacity:0}36%,70%{opacity:1}71%,100%{opacity:0}}
+.sh1{animation:sh 1.8s steps(1) infinite}.sh2{animation:sh 1.8s steps(1) -.9s infinite}
+@keyframes sh{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes drift{from{transform:translateX(-60px)}to{transform:translateX(290px)}}
+.glow{animation:glow 2.4s steps(1) infinite}
+@keyframes glow{0%,50%{opacity:.5}51%,100%{opacity:.25}}
+.fr1{animation:fr1 .72s steps(1) infinite}.fr2{animation:fr2 .72s steps(1) infinite}.fr3{animation:fr3 .72s steps(1) infinite}
+@keyframes fr1{0%,33%{opacity:1}34%,100%{opacity:0}}
+@keyframes fr2{0%,33%{opacity:0}34%,66%{opacity:1}67%,100%{opacity:0}}
+@keyframes fr3{0%,66%{opacity:0}67%,100%{opacity:1}}
+.sp1{animation:sp 2.6s steps(6) infinite}.sp2{animation:sp 3.3s steps(6) -1.1s infinite}.sp3{animation:sp 2.9s steps(6) -2s infinite}
+@keyframes sp{0%{transform:translateY(0);opacity:1}80%{opacity:1}100%{transform:translateY(-26px);opacity:0}}
+.eyes{animation:eyes 5.5s steps(1) infinite}
+@keyframes eyes{0%,94%{opacity:0}95%,98%{opacity:1}99%,100%{opacity:0}}
+.twinkle{animation:star 2.2s steps(1) infinite}
+@keyframes star{0%,60%{opacity:1}61%,100%{opacity:.35}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style><path d="M4 0H896V4H900V44H896V48H4V44H0V4H4Z" fill="#2d554a"/><path d="M6 2H894V6H898V42H894V46H6V42H2V6H6Z" fill="#0f1c1a"/><rect x="10" y="9" width="6" height="30" fill="#dfc47e"/><path d="M34 14h6v3h-6zM73 14h15v3h-15zM103 14h6v3h-6zM58 14h9v3h-9zM67 17h3v3h-3zM73 17h3v3h-3zM73 20h12v3h-12zM64 20h6v3h-6zM55 17h3v9h-3zM61 23h3v3h-3zM55 26h6v3h-6zM34 17h3v15h-3zM106 17h3v15h-3zM67 23h3v9h-3zM85 23h3v9h-3zM55 29h3v3h-3zM73 29h3v3h-3zM34 32h6v3h-6zM76 32h9v3h-9zM103 32h6v3h-6zM58 32h9v3h-9z" fill="#dfc47e"/><path d="M228 14h12v3h-12zM267 14h12v3h-12zM300 14h12v3h-12zM318 14h12v3h-12zM144 14h12v3h-12zM165 14h9v3h-9zM126 14h15v3h-15zM285 14h9v3h-9zM180 14h15v3h-15zM246 14h15v3h-15zM240 17h3v6h-3zM162 17h3v6h-3zM228 17h3v6h-3zM246 17h3v6h-3zM144 17h3v6h-3zM156 17h3v6h-3zM300 17h3v6h-3zM312 17h3v6h-3zM174 17h3v6h-3zM228 23h12v3h-12zM246 23h12v3h-12zM300 23h12v3h-12zM144 23h12v3h-12zM162 23h15v3h-15zM150 26h3v3h-3zM234 26h3v3h-3zM306 26h3v3h-3zM198 14h3v18h-3zM282 17h3v15h-3zM330 17h3v15h-3zM264 17h3v15h-3zM186 17h3v15h-3zM294 17h3v15h-3zM318 17h3v15h-3zM246 26h3v6h-3zM309 29h3v3h-3zM153 29h3v3h-3zM237 29h3v3h-3zM132 17h3v18h-3zM162 26h3v9h-3zM228 26h3v9h-3zM144 26h3v9h-3zM300 26h3v9h-3zM174 26h3v9h-3zM240 32h3v3h-3zM267 32h12v3h-12zM318 32h12v3h-12zM156 32h3v3h-3zM285 32h9v3h-9zM312 32h3v3h-3zM180 32h15v3h-15zM246 32h15v3h-15zM198 32h15v3h-15z" fill="#f5f1d8"/><path d="M766 17h2v2h-2zM774 17h2v2h-2zM846 17h8v2h-8zM742 17h8v2h-8zM788 17h6v2h-6zM756 17h6v2h-6zM730 17h10v2h-10zM798 17h10v2h-10zM810 17h10v2h-10zM794 19h2v2h-2zM772 19h4v2h-4zM766 19h4v2h-4zM830 17h2v6h-2zM822 17h2v6h-2zM730 19h2v4h-2zM846 19h2v4h-2zM742 19h2v4h-2zM750 19h2v4h-2zM854 19h2v4h-2zM770 21h2v4h-2zM730 23h8v2h-8zM846 23h8v2h-8zM742 23h8v2h-8zM790 23h6v2h-6zM822 23h10v2h-10zM746 25h2v2h-2zM834 17h2v12h-2zM842 17h2v12h-2zM786 19h2v10h-2zM754 19h2v10h-2zM802 19h2v10h-2zM762 19h2v10h-2zM794 25h2v4h-2zM846 25h2v4h-2zM854 25h2v4h-2zM748 27h2v2h-2zM814 19h2v12h-2zM766 21h2v10h-2zM774 21h2v10h-2zM730 25h2v6h-2zM830 25h2v6h-2zM742 25h2v6h-2zM822 25h2v6h-2zM846 29h8v2h-8zM750 29h2v2h-2zM788 29h6v2h-6zM756 29h6v2h-6zM836 29h6v2h-6zM798 29h10v2h-10z" fill="#7fb5a5"/><rect class="blink" x="868" y="20" width="8" height="8" fill="#dfc47e"/></svg>
