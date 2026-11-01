@@ -16,8 +16,8 @@ I'm still figuring out whether these paths lead to a main quest. Until then, I'm
 
 | Quest | Project | Type | Brief |
 |:---:|---|---|---|
-| `001` | **[Ustad-e-Karigar](https://github.com/M-Aamir-Rao/Ustad-e-Karigar)** | 📱 Android app<br>🤖 AI<br>🏆 National Finalist | A digital *ustad* for the real world, helping Pakistani repair workers and households diagnose problems, learn and keep track of their work. Describe an appliance fault by text, voice or photo and get structured **Gemini** answers with follow-up questions, tools, steps and warnings, double-checked by a separate rule-based **safety layer**. Works in English, Roman Urdu and Urdu (RTL + Nastaliq), with lessons and repair history stored on-device in **Room**. Built with **Kotlin** and **Jetpack Compose** for the BanoQabil x Alibaba AI Hackathon, where it made the **national finals**. |
-| `002` | **[Meadow & Wood](https://github.com/M-Aamir-Rao/MeadowAndWood)** | 🌐 Web app<br>🗄️ Databases | A quieter kind of storefront: cottagecore furniture meets a practical sales and inventory management system. A public catalogue driven by **MySQL**, admin CRUD for inventory, recorded sales that update stock automatically, and session-based admin and customer roles with registration and expiring password-reset tokens. **PHP**, **MySQL**, JavaScript and CSS, built with Fatima Asad and Abdullah Khan Niazi. |
+| `001` | **<a href="https://github.com/M-Aamir-Rao/Ustad-e-Karigar" target="_blank" rel="noopener noreferrer">Ustad-e-Karigar</a>** | 📱 Android app<br>🤖 AI<br>🏆 National Finalist | A digital *ustad* for the real world, helping Pakistani repair workers and households diagnose problems, learn and keep track of their work. Describe an appliance fault by text, voice or photo and get structured **Gemini** answers with follow-up questions, tools, steps and warnings, double-checked by a separate rule-based **safety layer**. Works in English, Roman Urdu and Urdu (RTL + Nastaliq), with lessons and repair history stored on-device in **Room**. Built with **Kotlin** and **Jetpack Compose** for the BanoQabil x Alibaba AI Hackathon, where it made the **national finals**. |
+| `002` | **<a href="https://github.com/M-Aamir-Rao/MeadowAndWood" target="_blank" rel="noopener noreferrer">Meadow & Wood</a>** | 🌐 Web app<br>🗄️ Databases | A quieter kind of storefront: cottagecore furniture meets a practical sales and inventory management system. A public catalogue driven by **MySQL**, admin CRUD for inventory, recorded sales that update stock automatically, and session-based admin and customer roles with registration and expiring password-reset tokens. **PHP**, **MySQL**, JavaScript and CSS, built with Fatima Asad and Abdullah Khan Niazi. |
 
 <br>
 
@@ -76,8 +76,8 @@ I'm still figuring out whether these paths lead to a main quest. Until then, I'm
 If you're working on something interesting, there's a decent chance I'll want to hear about it.
 
 <p>
-  <a href="https://rao-m-aamir.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-dfc47e?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-aamir-rao"><img src="https://img.shields.io/badge/LINKEDIN-2d554a?style=for-the-badge"/></a>
+  <a href="https://rao-m-aamir.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PORTFOLIO-dfc47e?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-aamir-rao" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LINKEDIN-2d554a?style=for-the-badge"/></a>
 </p>
 
 <img src="./assets/footer.svg" alt="End of the known trail. Stay curious. Take the side quest." width="100%">
