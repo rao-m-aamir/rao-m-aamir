@@ -194,7 +194,6 @@ STYLE = """
 @keyframes eyes{0%,94%{opacity:0}95%,98%{opacity:1}99%,100%{opacity:0}}
 .twinkle{animation:star 2.2s steps(1) infinite}
 @keyframes star{0%,60%{opacity:1}61%,100%{opacity:.35}}
-@media (prefers-reduced-motion: reduce){*{animation:none!important}}
 """
 
 
