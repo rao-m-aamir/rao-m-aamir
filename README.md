@@ -76,7 +76,7 @@ I'm still figuring out whether these paths lead to a main quest. Until then, I'm
 If you're working on something interesting, there's a decent chance I'll want to hear about it.
 
 <p>
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/PORTFOLIO-dfc47e?style=for-the-badge"/></a>
+  <a href="https://rao-m-aamir.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-dfc47e?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/muhammad-aamir-rao"><img src="https://img.shields.io/badge/LINKEDIN-2d554a?style=for-the-badge"/></a>
 </p>
 
